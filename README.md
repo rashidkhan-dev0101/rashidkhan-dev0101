@@ -1,248 +1,200 @@
-<h1 align="center">Hi 👋, I'm Rashid Khan</h1>
+# 👋 Hey, I'm Rashid Khan
 
-<h3 align="center">
-Mobile Application Developer | Swift • SwiftUI • Flutter
-</h3>
+### Mobile Application Engineer | iOS (Swift & SwiftUI) | Flutter & Dart
 
-<p align="center">
-Passionate about building modern, scalable, and user-focused mobile applications with
-<b>Swift</b>, <b>SwiftUI</b>, <b>Flutter</b>, <b>Firebase</b>, and <b>Clean Architecture</b>.
-</p>
+**I don't just write code. I build mobile products that solve real problems.**
 
-<p align="center">
+I'm a Software Engineering graduate and Mobile Application Developer passionate about engineering high-quality, scalable, and intuitive mobile applications.
 
-<img src="https://komarev.com/ghpvc/?username=rashidkhan-dev0101&label=Profile%20Views&color=0e75b6&style=flat"/>
+My primary focus is **Native iOS Development with Swift and SwiftUI**, alongside **Cross-Platform Development with Flutter**. I enjoy taking ideas from concept to production — designing interfaces, implementing application architecture, integrating APIs, managing data, optimizing performance, and shipping applications.
 
-<img src="https://img.shields.io/github/followers/rashidkhan-dev0101?style=flat&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/rashidkhan-dev0101?style=flat&logo=github"/>
-
-</p>
+- 🍎 Building native iOS applications with Swift, SwiftUI, and UIKit.
+- 💙 Developing cross-platform applications with Flutter and Dart.
+- 🚀 Published **6+ mobile applications for clients**.
+- 🏗 Applying MVVM, Clean Architecture, and maintainable design patterns.
+- ☁ Working with Firebase, Supabase, REST APIs, and local databases.
+- 📂 Maintaining 80+ public GitHub repositories.
+- 🌍 Open to iOS Developer, Flutter Developer, and Mobile Engineer opportunities.
 
 ---
 
-# 👨‍💻 About Me
+## ⚡ Engineering at a Glance
 
-- 📱 Mobile Application Developer passionate about creating elegant and high-performance mobile apps.
-- 🍎 Native iOS Developer using **Swift**, **SwiftUI**, **UIKit**, and **Core Data**.
-- 💙 Flutter Developer with experience building production-ready applications.
-- 🏗 Strong understanding of **MVVM**, **Clean Architecture**, **Repository Pattern**, and **Dependency Injection**.
-- 🔥 Experienced with **Firebase**, **Supabase**, **REST APIs**, and local persistence.
-- 🚀 Published multiple mobile applications.
-- 📂 80+ public GitHub repositories.
-- 🎓 Final Year Software Engineering Student.
-- 🌍 Open to **Junior iOS**, **Flutter**, **Mobile Developer**, and **Remote Opportunities**.
-
----
-
-# 🚀 Currently Working On
-
-- 🍽️ MealRecipe (SwiftUI)
-- 🍎 Advanced Native iOS Development
-- 📱 UIKit & Combine
-- 🏗 Production-level Mobile Architecture
-- 🎨 Building beautiful mobile UI experiences
+| Area | Experience & Focus |
+|---|---|
+| Mobile Development | iOS & Cross-Platform |
+| Primary Technologies | Swift, SwiftUI, Flutter, Dart |
+| Application Architecture | MVVM, Clean Architecture, BLoC |
+| Backend Integration | Firebase, Supabase, REST APIs |
+| Data Persistence | Core Data, SQLite, Hive |
+| Application Delivery | Published Client Applications |
+| Development Tools | Xcode, Android Studio, Git |
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 My Technical Arsenal
 
-### 📱 Mobile Development
+### 🍎 Native iOS Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase"/>
-</p>
+`Swift` `SwiftUI` `UIKit` `Core Data` `Combine` `Swift Concurrency`
 
-### 💻 Languages
+- Building native iOS applications.
+- Declarative UI development with SwiftUI.
+- UIKit fundamentals and application lifecycle.
+- MVVM architecture and reusable components.
+- Local persistence and data management.
+- API integration and asynchronous programming.
 
-- Swift
-- Dart
-- Java
-- C++
+### 💙 Cross-Platform Development
 
-### 🍎 iOS
+`Flutter` `Dart` `GetX` `BLoC` `Provider`
 
-- SwiftUI
-- UIKit
-- Core Data
-- Combine (Learning)
+- Responsive and adaptive application interfaces.
+- State management and application lifecycle.
+- Reusable widgets and modular development.
+- Firebase and Supabase integrations.
+- Local database implementation.
+- Production-ready application development.
 
-### 💙 Flutter
+### ☁ Backend & Data Engineering
 
-- Flutter SDK
-- GetX
-- BLoC
-- Provider
-
-### ☁ Backend
+`Firebase` `Supabase` `REST APIs` `JSON` `SQLite` `Hive`
 
 - Firebase Authentication
-- Firestore
-- Cloud Storage
+- Cloud Firestore
+- Firebase Cloud Storage
 - Firebase Cloud Messaging
-- Supabase
+- Supabase PostgreSQL
+- REST API integration
+- Local data persistence
 
-### 💾 Database
+### 🏗 Software Engineering & Architecture
 
-- Core Data
-- SQLite
-- Hive
-- SharedPreferences
+`MVVM` `Clean Architecture` `Repository Pattern` `Dependency Injection`
 
-### 🌐 Networking
+I focus on writing code that is understandable, testable, maintainable, and scalable rather than simply making an application work.
 
-- REST APIs
-- JSON
-- Dio
-- HTTP
+### 🛠 Developer Toolkit
 
-### 🏗 Architecture
-
-- MVVM
-- Clean Architecture
-- Repository Pattern
-- Dependency Injection
-
-### 🛠 Tools
-
-- Xcode
-- Android Studio
-- VS Code
-- Git
-- GitHub
-- Figma
-- Postman
+`Xcode` `Android Studio` `VS Code` `Git` `GitHub` `Postman` `Figma`
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Selected Projects
 
-## 🍽️ MealRecipe
+I enjoy working on applications that combine practical functionality, thoughtful UI/UX, and solid engineering.
 
-Modern SwiftUI Recipe Application
+### 🍽️ MealRecipe — Native iOS
 
-**SwiftUI • MVVM • Firebase • TheMealDB API**
+**SwiftUI | MVVM | Firebase | TheMealDB API**
+
+A modern recipe application focused on discovering meals, exploring food information, and creating a smooth native iOS experience.
+
+**Engineering focus:** SwiftUI architecture, API integration, reusable UI, and data management.
+
+### 🍎 LumiKids — iOS Learning Application
+
+**SwiftUI | Core Data | MVVM**
+
+An educational application concept designed to provide an engaging and intuitive learning experience for children.
+
+**Engineering focus:** Native UI, local persistence, and structured application architecture.
+
+### 👨‍⚕️ Doctor Finder — Healthcare Application
+
+**Flutter | Firebase | Google Maps**
+
+A healthcare application concept focused on connecting users with doctors and making healthcare discovery easier.
+
+**Engineering focus:** Backend integration, location services, and mobile UI development.
+
+### 📷 Fruit Lens — AI-Powered Recognition
+
+**Flutter | Machine Learning | REST APIs**
+
+A mobile application that explores fruit recognition using machine learning and provides relevant information about detected fruits.
+
+**Engineering focus:** ML integration, image processing, and API-driven functionality.
+
+### 📖 Blog Application
+
+**Flutter | Clean Architecture | BLoC | Supabase**
+
+A structured blogging application demonstrating separation of concerns, state management, and backend integration.
+
+**Engineering focus:** Modular architecture, authentication, data management, and maintainability.
 
 ---
 
-## 🍎 LumiKids
-
-Native iOS Learning App
-
-**SwiftUI • Core Data • MVVM**
-
----
-
-## 👨‍⚕️ Doctor Finder
-
-Healthcare Platform
-
-**Flutter • Firebase • Google Maps**
-
----
-
-## 📷 Fruit Lens
-
-AI Powered Fruit Recognition
-
-**Flutter • Machine Learning • REST API**
-
----
-
-## 📖 Blog App
-
-Enterprise Flutter Application
-
-**Clean Architecture • BLoC • Supabase**
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rashidkhan-dev0101&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkhan-dev0101&layout=compact&theme=tokyonight"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rashidkhan-dev0101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkhan-dev0101&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rashidkhan-dev0101&theme=tokyonight"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=rashidkhan-dev0101&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rashidkhan-dev0101&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rashidkhan-dev0101&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 🌱 What I'm Exploring
 
-- Advanced SwiftUI
-- UIKit
-- Combine
-- Swift Concurrency
-- iOS Performance Optimization
-- System Design for Mobile Applications
+Technology never stands still, and neither does my learning.
 
----
-
-# 🎯 Career Objective
-
-To become a world-class Mobile Application Engineer by building high-quality, scalable applications that positively impact millions of users while continuously learning modern software engineering practices.
+- Advanced SwiftUI and UIKit.
+- Swift Concurrency and Combine.
+- iOS performance optimization.
+- Advanced Flutter development.
+- Scalable mobile application architecture.
+- System design and software engineering best practices.
 
 ---
 
-# 🤝 Let's Connect
+## 💼 What I Bring to a Development Team
 
-<p align="left">
+- **Product mindset:** I care about the final user experience, not just the implementation.
+- **Ownership:** Experience taking mobile applications from development to publication.
+- **Adaptability:** Comfortable working across native iOS and cross-platform technologies.
+- **Engineering discipline:** Focused on clean code, architecture, and maintainability.
+- **Continuous learning:** Always exploring better ways to build reliable mobile products.
 
-🌐 Portfolio  
-**https://sage-flan-b1b04a.netlify.app**
+I'm interested in opportunities where I can contribute to real products, collaborate with talented engineers, and grow as a Mobile Application Engineer.
 
-💼 LinkedIn  
-**https://linkedin.com/in/rashid-khan-15a67b2ba**
+---
 
-📱 GitHub  
-**https://github.com/rashidkhan-dev0101**
+## 🤝 Let's Build Something Great Together
 
-📧 Email  
-**rashidkhan0101abcd@gmail.com**
+Whether you're a recruiter, engineering manager, developer, or someone with an interesting product idea, I'd love to connect.
 
+<p align="center">
+  <a href="https://linkedin.com/in/rashid-khan-15a67b2ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rashidkhan0101abcd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rashidkhan-dev0101">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://sage-flan-b1b04a.netlify.app">Visit My Portfolio</a>
 </p>
 
 ---
 
-# 💬 Favorite Quote
+### 💡 My Engineering Philosophy
 
-> **"Code with purpose. Design with passion. Build products that make a difference."**
+> "Great software isn't just about making things work. It's about making them work beautifully, reliably, and at scale."
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<!--
-**rashidkhan-dev0101/rashidkhan-dev0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Thanks for stopping by! 🚀</b><br/>
+  <i>Building. Learning. Shipping. Improving.</i>
+</p>
